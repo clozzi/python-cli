@@ -133,5 +133,4 @@ I love space and the idea that there is so much human technology out there is aw
 ## Resources
 
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [Geeks for Geeks](https://www.geeksforgeeks.org/)
-- [w3 Schools](https://www.w3schools.com/python/default.asp)
+- [mdn](https://developer.mozilla.org/en-US/)
