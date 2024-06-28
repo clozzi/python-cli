@@ -126,6 +126,10 @@ Overall, completing this project has given me a lot of insight into the basics o
 
 ---
 
+## Next Steps
+
+I love space and the idea that there is so much human technology out there is awe inspiring. I plan on making this into a static site using some of NASA's APIs so that it can be more than just a fun little command line playground.
+
 ## Resources
 
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
